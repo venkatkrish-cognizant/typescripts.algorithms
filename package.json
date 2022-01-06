@@ -1,0 +1,19 @@
+{
+  "name": "typescript.algorithms",
+  "version": "1.0.0",
+  "description": "Algorithms in typescripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venkatkrish-cognizant/typescripts.algorithms.git"
+  },
+  "author": "Venkataramanan K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venkatkrish-cognizant/typescripts.algorithms/issues"
+  },
+  "homepage": "https://github.com/venkatkrish-cognizant/typescripts.algorithms#readme"
+}
